@@ -1,12 +1,12 @@
 {
   "projects": [
     {
-      "id": "e5e4",
-      "name": "Teste",
-      "budget": "77777",
+      "id": "ba54",
+      "name": "Teste atualizado",
+      "budget": "1000000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": []
