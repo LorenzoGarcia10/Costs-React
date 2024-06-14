@@ -10,6 +10,17 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "29f2",
+      "name": "lorenzo",
+      "budget": "100000000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
