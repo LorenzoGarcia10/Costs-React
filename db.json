@@ -19,6 +19,24 @@
         "id": "3",
         "name": "Design"
       },
+      "cost": 10000,
+      "services": [
+        {
+          "name": "Teste",
+          "cost": "10000",
+          "description": "teste",
+          "id": "362ba20e-d88b-4e4f-90f9-ca5d5e1d2968"
+        }
+      ]
+    },
+    {
+      "id": "c3f3",
+      "name": "lo",
+      "budget": "10000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
       "cost": 0,
       "services": []
     }
